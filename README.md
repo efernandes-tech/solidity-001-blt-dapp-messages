@@ -1,4 +1,4 @@
-# solidity-001-blt-argos-dapp-messages
+# solidity-001-blt-dapp-messages
 
 ## smart-contract
 
